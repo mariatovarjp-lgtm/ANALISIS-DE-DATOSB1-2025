@@ -13,6 +13,9 @@ setup(
         "requests",
         "beautifulsoup4",
         "matplotlib"
+         "kagglehub[pandas-datasets]>=0.3.8",
+        "seaborn",
+        "pyarrow"
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
